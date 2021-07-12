@@ -1,0 +1,7 @@
+{
+	"name": "Scoreboard",
+	"version": "1.0",
+	"author": "Lexogrine",
+	"entry": "index.js",
+	"game": "csgo"
+}
