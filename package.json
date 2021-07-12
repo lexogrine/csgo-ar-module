@@ -1,0 +1,25 @@
+{
+  "name": "csgo-ar-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "compress-commons": "^1.2.2",
+    "npm-build-zip": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "zip": "npm-build-zip"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexogrine/csgo-ar-extension.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lexogrine/csgo-ar-extension/issues"
+  },
+  "homepage": "https://github.com/lexogrine/csgo-ar-extension#readme"
+}
