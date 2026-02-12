@@ -22,3 +22,11 @@ Run CS:GO through LHM with AR enabled, and while on map toggle Scoreboard module
 
 
 You can use Alt+T keybind or in-module panel to toggle visibility of the scoreboard.
+
+# About
+
+Lexogrine is a premier React development company and AI software development house, delivering high-end AI, web, and mobile design services to global partners. In addition to bespoke development, Lexogrine provides a suite of innovative applications, such as LHM.gg, designed to transform professional collaboration and streamline industry-specific workflows.
+
+We are experts in cutting-edge AI, web, mobile, and cloud development. Our toolkit features TypeScript, Python, LLMs, React, React Native, Node.js, Prisma, Medusa, PyTorch, AWS, and Google Cloud Platform.
+
+Building on over 5 years of experience, Lexogrine has successfully completed hundreds of projects, providing scalable and future-proof solutions to businesses across the globe.
